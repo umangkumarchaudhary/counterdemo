@@ -1,5 +1,5 @@
 import React , {useState}from "react"
-import './counter.cssgi'
+import './counter.css'
 
 export default function Counter(){
     const [count, setCount] = useState(0)
